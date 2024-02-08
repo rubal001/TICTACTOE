@@ -1,0 +1,39 @@
+1.Game Settings Screen
+<!-- Placeholder XML, replace it with your actual layout -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Heading/Logo -->
+    <!-- Game mode options (PvP/PvC) -->
+    <!-- Grid size options (3-5) -->
+    <!-- Player name input(s) -->
+    <!-- Action button to start the game -->
+
+</RelativeLayout>
+
+2. Game Screen 
+<!-- Placeholder XML, replace it with your actual layout -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Tic-tac-toe grid -->
+    <!-- Current player indicator (toggle switch) -->
+    <!-- Players' names and scores -->
+    <!-- Option to reset the grid -->
+    <!-- Option to adjust settings (smaller buttons, top right) -->
+
+</RelativeLayout>
+
+3. Result Screen 
+<!-- Placeholder XML, replace it with your actual layout -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Information about the game result (win/draw) -->
+    <!-- Display of the winning player (if applicable) -->
+    <!-- Buttons to restart the game and edit settings -->
+
+</RelativeLayout>
