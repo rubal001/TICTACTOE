@@ -1,1 +1,1 @@
-# TICTACTOE
+A Tic Tac Toe app is like a digital version of the classic game where you draw Xs and Os on a 3x3 grid. The aim is to get three of your marks in a row. It's a quick, fun way to play on a computer or phone, perfect for some light entertainment. Whether you're challenging a computer or a friend, Tic Tac Toe is a simple, enjoyable game for everyone. It's not just about winning; it's about having a good time, thinking a bit, and sharing some laughs with others.# TICTACTOE
